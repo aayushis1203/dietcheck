@@ -1,0 +1,78 @@
+{
+  "dataset_size": 279,
+  "train_size": 223,
+  "test_size": 56,
+  "num_features": 29,
+  "label_distribution": {
+    "keto_compliant": {
+      "total": 90,
+      "percentage": 32.25806451612903,
+      "train": 72,
+      "test": 18
+    },
+    "high_protein": {
+      "total": 105,
+      "percentage": 37.634408602150536,
+      "train": 89,
+      "test": 16
+    },
+    "low_sodium": {
+      "total": 124,
+      "percentage": 44.44444444444444,
+      "train": 97,
+      "test": 27
+    },
+    "low_fat": {
+      "total": 103,
+      "percentage": 36.91756272401434,
+      "train": 77,
+      "test": 26
+    }
+  },
+  "fda_thresholds": {
+    "keto_compliant": {
+      "feature": "net_carbs_per_serving",
+      "threshold": 5.0,
+      "operator": "<=",
+      "source": "Ketogenic diet standard"
+    },
+    "high_protein": {
+      "feature": "protein_per_serving",
+      "threshold": 10.0,
+      "operator": ">=",
+      "source": "FDA 21 CFR \u00a7101.54(b)"
+    },
+    "low_sodium": {
+      "feature": "sodium_per_serving",
+      "threshold": 140.0,
+      "operator": "<=",
+      "source": "FDA 21 CFR \u00a7101.61(b)(4)"
+    },
+    "low_fat": {
+      "feature": "fat_per_serving",
+      "threshold": 3.0,
+      "operator": "<=",
+      "source": "FDA 21 CFR \u00a7101.62(b)(2)"
+    }
+  },
+  "collection_date": "2025-11-29",
+  "categories_collected": [
+    "breakfast-cereals",
+    "soups",
+    "protein-products",
+    "snacks",
+    "beverages",
+    "frozen-meals",
+    "dairy-alternatives",
+    "condiments",
+    "yogurts",
+    "cheeses",
+    "breads",
+    "pasta",
+    "plant-based-foods",
+    "canned-foods",
+    "sauces",
+    "spreads"
+  ],
+  "random_seed": 42
+}
