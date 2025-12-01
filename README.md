@@ -1,4 +1,4 @@
-# DietCheck – Manual Annotation README
+# DietCheck – README
 
 This README explains **how we created and managed the manual annotations** for the DietCheck project, including all files, notebooks, and step-by-step instructions for annotators.
 
@@ -319,7 +319,3 @@ This ensures that anyone can:
 - [ ] Export final sheets to CSV.
 - [ ] Run `05_inter_annotator_agreement.ipynb` to compute κ.
 - [ ] Log κ values and any guideline updates in the repo.
-
----
-
-This README should give anyone joining the project enough information to understand **how the manual annotations were created**, reproduce the templates, and continue annotating in a consistent, defensible way.
