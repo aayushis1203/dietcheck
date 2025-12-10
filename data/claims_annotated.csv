@@ -1,0 +1,364 @@
+product_id,product_name,brand,claim_text,context,is_claim,claim_verifiable,claim_conflict,conflict_explanation
+41220001644,Condensed Soup,H-E-B,No gluten,Condensed Soup | H-E-B,1,1,0,explicit gluten-free claim
+21500806121,SEASONED SALT,LAWRY'S,No gluten,SEASONED SALT | LAWRY'S,1,1,0,explicit gluten-free claim
+41420110184,Gummy bears,"Black Forest, Ferrara Candy Company",organic sunflower oil*,"Gummy bears | Black Forest, Ferrara Candy Company",1,0,0,organic ingredient claim (not evaluated)
+30034068660,Diet Tonic Water,"Giant Eagle,  Giant Eagle  Inc.",No gluten,"Diet Tonic Water | Giant Eagle,  Giant Eagle  Inc.",1,1,0,explicit gluten-free claim
+27000380499,Diced Tomatoes No Salt Added,Hunt's,,"Diced Tomatoes, No Salt Added | Hunt's",1,1,0,no-salt-added sodium claim from name
+11110825568,"Kroger, lactose free 2% reduced fat milk","Kroger,  The Kroger Co.",lactose free 2% reduced fat milk'},"Kroger, lactose free 2% reduced fat milk | Kroger,  The Kroger Co.",1,1,0,lactose-free reduced-fat milk claim
+44196,Cantina tortillas,M&S,No gluten,Cantina tortillas | M&S,1,1,0,explicit gluten-free claim
+33984002005,Vitamine B Complex Avec Vitamine C - 100 Tablettes - Solgar,,Sans gluten,Vitamine B Complex Avec Vitamine C - 100 Tablettes - Solgar |,1,1,0,french sans-gluten wording
+99202,Yogurt coated rice cakes,M&S,Lactose en poudre (Lait),Yogurt coated rice cakes | M&S,0,0,0,"ingredient fragment, not a claim"
+25638870023,Pure Coffee Extract,Nielsen-Massey,Certified gluten-free,Pure Coffee Extract | Nielsen-Massey,1,1,0,certified gluten-free wording
+33776011208,Low Sodium Whipped Imitation Butter,Smart Balance,,Low Sodium Whipped Imitation Butter | Smart Balance,1,1,0,low sodium nutrient claim (from name)
+34000450213,Milk chocolate miniature peanut butter cups,Reese's,No gluten,Milk chocolate miniature peanut butter cups | Reese's,1,1,0,explicit gluten-free claim
+36632019622,MIXED BERRY FLAVOURED OIKOS TRIPLE ZERO,OIKOS,certified-gluten-free,MIXED BERRY FLAVOURED OIKOS TRIPLE ZERO | OIKOS,1,1,0,certified gluten-free wording
+39978049407,Organic Golden Flaxseed Meal,Bob's Red Mill,No gluten,Organic Golden Flaxseed Meal | Bob's Red Mill,1,1,0,explicit gluten-free claim
+22506201323,Canola Mayonnaise,Spectrum Naturals,No gluten,Canola Mayonnaise | Spectrum Naturals,1,1,0,explicit gluten-free claim
+33919000458,Flying Cauldron Butterscotch Beer,Reed's,No gluten,Flying Cauldron Butterscotch Beer | Reed's,1,1,0,explicit gluten-free claim
+22506002913,Organic Mayonnaise,Spectrum Naturals,,Organic Mayonnaise | Spectrum Naturals,1,0,0,organic claim (not evaluated)
+26825008922,"Gia russa, select pasta sauce, hot sicilian","Gia Russa,  Gia Brands Inc.",,"Gia russa, select pasta sauce, hot sicilian | Gia Russa,  Gia Brands Inc.",0,0,0,no claim text present
+15900002115,Classic Jumbo Franks,Bar S,SALT,Classic Jumbo Franks | Bar S,0,0,0,ingredient word salt only
+36800342699,Brown Rice,Full Circle,,Brown Rice | Full Circle,0,0,0,no claim text present
+13971010015,Cinnamon Crunchy Apple Chips,"Simply,  Bare",,"Cinnamon Crunchy Apple Chips | Simply,  Bare",0,0,0,no claim text present
+41449403267,Wild Blueberry Muffin Mix,Krusteaz,certified-gluten-free,Wild Blueberry Muffin Mix | Krusteaz,1,1,0,certified gluten-free wording
+21908452296,Blue Corn Tortilla Chips,"Food Should Taste Good,  Small Planet Foods  Inc.",,"Blue Corn Tortilla Chips | Food Should Taste Good,  Small Planet Foods  Inc.",0,0,0,no claim text present
+9300001809,Fresh Pack Kosher Dills,Mt. Olive,1% SODIUM BENZOATE (PRESERVATIVE),Fresh Pack Kosher Dills | Mt. Olive,0,0,0,"ingredient preservative, not a claim"
+28000081409,Milk chocolate,Nestlé,No gluten,Milk chocolate | Nestlé,1,1,0,explicit gluten-free claim
+22000017758,Skittles Sweets And Sours Boite Theatre,Skittles,Sans gluten,Skittles Sweets And Sours Boite Theatre | Skittles,1,1,0,french sans-gluten claim
+41220974900,Tomato Basil Soup,H-E-B,No gluten,Tomato Basil Soup | H-E-B,1,0,1,explicit gluten-free claim
+39978024534,Baking Flour,"Bob's Red Mill,  Bob's Red Mill Natural Foods  Inc.",No gluten,"Baking Flour | Bob's Red Mill,  Bob's Red Mill Natural Foods  Inc.",1,1,0,explicit gluten-free claim
+41331120258,Premium Dry Pigeon Peas,Goya,,Premium Dry Pigeon Peas | Goya,0,0,0,no claim text present
+12511600006,Organic Molasses,Wholesome,,Organic Molasses | Wholesome,1,0,0,organic claim (not evaluated)
+41335001461,Three Cheese Italian Dressing & Marinade,KEN'S Steak House,salt,Three Cheese Italian Dressing & Marinade | KEN'S Steak House,0,0,0,ingredient word salt only
+22655717713,Sweet Turkey Sausage,"Butterball,  Butterball  Llc",No gluten,"Sweet Turkey Sausage | Butterball,  Butterball  Llc",1,1,0,explicit gluten-free claim
+34856226994,Fruit snacks pouches fruit punch berries n cherries,"Welch's,  Promotion In Motion Inc.",No gluten,"Fruit snacks pouches fruit punch berries n cherries | Welch's,  Promotion In Motion Inc.",1,1,0,explicit gluten-free claim
+20188013012,Dairy Free Frozen Dessert Sandwiches,Tofutti,SALT,Dairy Free Frozen Dessert Sandwiches | Tofutti,0,0,0,ingredient word salt only
+37983003001,Tofu rella,Tree Of Life  Inc.,No cholesterol,Tofu rella | Tree Of Life  Inc.,1,1,0,no cholesterol nutrient claim
+41383090257,Fat free milk,"Lactaid,  Akpharma Inc.",Fat free milk'},"Fat free milk | Lactaid,  Akpharma Inc.",1,1,0,fat free milk claim
+11150990172,100% Lactose Free Milk,Roundy's,Fat free milk,100% Lactose Free Milk | Roundy's,1,1,0,fat free milk wording
+41260363788,"Whey & Soy Protein, Flavored Drink Mix, Vanilla",Kroger,No lactose,"Whey & Soy Protein, Flavored Drink Mix, Vanilla | Kroger",1,1,0,explicit lactose-free style claim
+11110507761,Lactose free no sugar added deluxe churned chocolate ice cream,Kroger,Lactose free no sugar added deluxe churned chocolate ice cream'},Lactose free no sugar added deluxe churned chocolate ice cream | Kroger,1,1,0,lactose-free no-added-sugar claim
+15400008754,"Whipped Dessert Topping, Lactose Free",Western Family,Lactose Free',"Whipped Dessert Topping, Lactose Free | Western Family",1,1,0,lactose-free label wording
+41390061400,Pearl creamy vanilla organic soymilk,"Kikkoman,  Kikkoman Sales Usa  Inc.",No lactose,"Pearl creamy vanilla organic soymilk | Kikkoman,  Kikkoman Sales Usa  Inc.",1,1,0,explicit lactose-free style claim
+11110505040,Vividly Vanilla Reduced Fat Ice Cream,Kroger Deluxe Churned, 'Vividly Vanilla Reduced Fat Ice Cream'},Vividly Vanilla Reduced Fat Ice Cream | Kroger Deluxe Churned,1,1,0,reduced-fat ice cream claim (from name)
+26875999928,Smoked Beef Sauasge,Kiolbassa,No lactose,Smoked Beef Sauasge | Kiolbassa,1,1,0,explicit lactose-free style claim
+11161035831,"Reduced fat milk, 38% less fat than whole milk",Shurfine, 'Reduced fat milk,"Reduced fat milk, 38% less fat than whole milk | Shurfine",1,1,0,reduced fat milk claim
+11110841858,Unsweetened Coconutmilk,"Simple Truth,  The Kroger Co.",No lactose,"Unsweetened Coconutmilk | Simple Truth,  The Kroger Co.",1,1,0,explicit lactose-free style claim
+21130455287,Coffee Creamer,Lucerne Farms,corn syrup*,Coffee Creamer | Lucerne Farms,0,0,0,"ingredient fragment, not a claim"
+11110798091,Lactose free chocolate milk,"Kroger,  The Kroger Co.", 'Lactose free chocolate milk'},"Lactose free chocolate milk | Kroger,  The Kroger Co.",1,1,0,lactose-free flavored milk claim
+30034001483,French creamer,"Giant Eagle,  Giant Eagle  Inc.",Sugar,"French creamer | Giant Eagle,  Giant Eagle  Inc.",0,0,0,ingredient word sugar only
+11110505637,Protein smoothie,Kroger,No lactose,Protein smoothie | Kroger,1,1,0,explicit lactose-free style claim
+31506771118,White American Pasteurized Process Cheese,Dietz & Watson,No lactose,White American Pasteurized Process Cheese | Dietz & Watson,1,1,0,explicit lactose-free style claim
+21130075799,Seasonal Snickerdoodle Artificially Flavored Coffee Creamer,Lucerne Farms,SUGAR,Seasonal Snickerdoodle Artificially Flavored Coffee Creamer | Lucerne Farms,0,0,0,ingredient word sugar only
+41271027709,Caramel Macchiato Coffee Creamer,International Delight,,Caramel Macchiato Coffee Creamer | International Delight,0,0,0,no claim text present
+28835204004,Grated Parmesan Cheese Alternative,Bookhaus,No lactose,Grated Parmesan Cheese Alternative | Bookhaus,1,1,0,explicit lactose-free style claim
+41383090707,Lactose-free skim milk,"Lactaid,  Akpharma Inc.", 'Lactose-free skim milk'},"Lactose-free skim milk | Lactaid,  Akpharma Inc.",1,1,0,lactose-free skim milk claim
+11384160044,Lactose Free-Made With Milk,Yami,Lactose Free-Made With Milk'},Lactose Free-Made With Milk | Yami,1,1,0,lactose-free made-with-milk claim
+11110845931,Almond Milk,The Kroger Co.,No lactose,Almond Milk | The Kroger Co.,1,1,0,explicit lactose-free style claim
+11384160051,Lactose Free-Made With Milk,Yami, 'Lactose Free-Made With Milk'},Lactose Free-Made With Milk | Yami,1,1,0,lactose-free made-with-milk claim
+26400440406,Lactose Free Low Fat Milk,Darigold, 'LOWFAT MILK,Lactose Free Low Fat Milk | Darigold,1,1,0,lowfat milk fat claim
+30034018658,"Lactose-Free Creamer, Original","Giant Eagle,  Giant Eagle  Inc.",Corn syrup solids,"Lactose-Free Creamer, Original | Giant Eagle,  Giant Eagle  Inc.",0,0,0,"ingredient fragment, not a claim"
+21130076406,White Chocolate Mocha,"Lucerne,  Safeway  Inc.",No lactose,"White Chocolate Mocha | Lucerne,  Safeway  Inc.",1,1,0,explicit lactose-free style claim
+11115871324,48% Vegetable Oil Spread,IMPERIAL,,48% Vegetable Oil Spread | IMPERIAL,0,0,0,"compositional naming only, no explicit claim"
+2000000448,Jabra Jabra JX-10 Xtra Earhook Bulk,,Sans lactose,Jabra Jabra JX-10 Xtra Earhook Bulk |,1,0,0,lactose-free style claim (non-food; not evaluated)
+41383090233,1% lowfat milk,"Lactaid,  Akpharma Inc.", '1% lowfat milk'},"1% lowfat milk | Lactaid,  Akpharma Inc.",1,1,0,lowfat milk fat claim
+21130455300,Coffee Creamer,Safeway,Sugar,Coffee Creamer | Safeway,0,0,0,ingredient word sugar only
+26400440413,Lactose Free Low Fat Milk,Darigold,LOWFAT MILK,Lactose Free Low Fat Milk | Darigold,1,1,0,lowfat milk fat claim
+36800041790,Vanilla soymilk,"Full Circle,  Topco Associates  Inc.",No lactose,"Vanilla soymilk | Full Circle,  Topco Associates  Inc.",1,1,0,explicit lactose-free style claim
+17082117274,Original Beef Jerky,Jack Link's,Source of proteins,Original Beef Jerky | Jack Link's,1,1,0,source of protein claim
+21130070992,Chocolate reduced fat milk,Lucerne Dairy Farms,fat free milk,Chocolate reduced fat milk | Lucerne Dairy Farms,1,1,0,fat free milk claim
+11778,All Butter Reduced Fat Stem Ginger Cookies,Marks & Spencer,All Butter Reduced Fat Stem Ginger Cookies'},All Butter Reduced Fat Stem Ginger Cookies | Marks & Spencer,1,1,0,reduced-fat cookies naming
+25800028948,Thin Crust Pepperoni Pizza,Smart Ones,ISOLATED SOY PROTEIN MONO AND DIGLYCERIDES,Thin Crust Pepperoni Pizza | Smart Ones,0,0,0,ingredient list fragment
+101110,Tomato Basil Marinara,Trader Giotto's,Low fat,Tomato Basil Marinara | Trader Giotto's,1,1,0,explicit low-fat claim
+17082470157,Jack Links Beef Jerky Jalapeño,Jack Link's,Low fat,Jack Links Beef Jerky Jalapeño | Jack Link's,1,1,0,explicit low-fat claim
+154277,Caesar Dressing Reduced Fat,Marks & Spencer,Caesar Dressing Reduced Fat,Caesar Dressing Reduced Fat | Marks & Spencer,1,1,0,reduced-fat dressing naming
+35309,Cream of mushroom soup,Sainsbury's,low-fat,Cream of mushroom soup | Sainsbury's,1,1,0,explicit low-fat claim
+36830164506,4 steaks hachés pur boeuf façon bouchère,Leader Price,,4 steaks hachés pur boeuf façon bouchère | Leader Price,0,0,0,no claim text present
+10700531001,Hersheys made with chocolate and caramel,,or safflower oil]; dextrose; nonfat milk; reduced protein whey ( milk<,Hersheys made with chocolate and caramel |,0,0,0,ingredient list fragment
+73455,"grilled Cajun chicken breast, spicy wedges & sour cream","Count on US, M&S, Marks & Spencer",,"grilled Cajun chicken breast, spicy wedges & sour cream | Count on US, M&S, Marks & Spencer",0,0,0,no claim text present
+117746,Reduced Fat Belgian Chocolate Chunk Cookies,Marks & Spencer,Reduced Fat Belgian Chocolate Chunk Cookies,Reduced Fat Belgian Chocolate Chunk Cookies | Marks & Spencer,1,1,0,reduced-fat cookies naming
+187251,CHOCOLATEY CATS COOKIES For People,TRADER JOE'S,salt,CHOCOLATEY CATS COOKIES For People | TRADER JOE'S,0,0,0,ingredient word salt only
+84222,Poulet Kip Piri-Piri,Marks & Spencer,,Poulet Kip Piri-Piri | Marks & Spencer,0,0,0,no claim text present
+10700024404,The original malted milk balls,"The Hershey Company,Leaf  Inc.",Low fat,"The original malted milk balls | The Hershey Company,Leaf  Inc.",1,0,1,explicit low-fat claim
+311021,Skinny Chocolate Muffin Dessert,Marks & Spencer,,Skinny Chocolate Muffin Dessert | Marks & Spencer,0,0,0,"descriptive name only, not explicit nutrient claim"
+25800028900,Thin Crust Cheese Pizza,Smart Ones,Low fat,Thin Crust Cheese Pizza | Smart Ones,1,0,1,explicit low-fat claim
+34360269500,Mousse au fromage blanc sur lit de fruits,Danone,,Mousse au fromage blanc sur lit de fruits | Danone,0,0,0,no claim text present
+41151074816,Light Garlic & Herb,The Laughing Cow,Low fat,Light Garlic & Herb | The Laughing Cow,1,0,1,explicit low-fat claim
+14100074670,Sourdough Bread,Pepperidge Farm Farmhouse,Low fat,Sourdough Bread | Pepperidge Farm Farmhouse,1,1,0,explicit low-fat claim
+17082707468,Teriyaki Beef Jerky,Jack Link's,Low fat,Teriyaki Beef Jerky | Jack Link's,1,0,1,explicit low-fat claim
+180245,Frosted Shredded Bite Size Wheats,Trader Joe's,Low fat,Frosted Shredded Bite Size Wheats | Trader Joe's,1,0,1,explicit low-fat claim
+256353,Sweet Potato Laksa Meal Soup,Marks & Spencer,Low fat,Sweet Potato Laksa Meal Soup | Marks & Spencer,1,1,0,explicit low-fat claim
+14100070337,Homestyle Oat Bread,Pepperidge Farm,No Trans Fat,Homestyle Oat Bread | Pepperidge Farm,1,1,0,no trans fat claim
+35971800045,"Meijer, organic garden salad, organic ranch dressing",Meijer,reduced-sugar,"Meijer, organic garden salad, organic ranch dressing | Meijer",1,1,0,reduced-sugar nutrient claim
+15953702017,"Hawaii's, Diamond Head Delights Mango Slices",Nature's World Llc,low sugar,"Hawaii's, Diamond Head Delights Mango Slices | Nature's World Llc",1,1,0,low sugar nutrient claim
+31200457011,Cranberry 0% sucres ajoutés,Ocean Spray,,Cranberry 0% sucres ajoutés | Ocean Spray,1,1,0,no added sugar claim from name
+2000019655,Muesli superfruit,,No added sugar,Muesli superfruit |,1,1,0,no added sugar claim
+36800166585,"Croutons, Caesar",Full Circle,reduced-sugar,"Croutons, Caesar | Full Circle",1,1,0,reduced-sugar nutrient claim
+28000680404,Drink mix,"nestle,Nesquik",Low sugar,"Drink mix | nestle,Nesquik",1,1,0,low sugar nutrient claim
+31200436245,Juice light cranberry classic,Ocean Spray,,Juice light cranberry classic | Ocean Spray,0,0,0,no explicit claim text
+31200029317,Craisins Dried Cranberries,Ocean Spray,50% less sugar,Craisins Dried Cranberries | Ocean Spray,1,1,0,less sugar nutrient claim
+35971800021,Organic Caesar Salad,Meijer,reduced-sugar,Organic Caesar Salad | Meijer,1,1,0,reduced-sugar nutrient claim
+133661,Ginger beer,Marks & Spencer,,Ginger beer | Marks & Spencer,0,0,0,no claim text present
+2000003555,Ruby breakfast,Tropicana,,Ruby breakfast | Tropicana,0,0,0,no claim text present
+30304600323,100% Fresh Squeezed Orange Juice,,No added sugar,100% Fresh Squeezed Orange Juice |,1,1,0,no added sugar claim
+51378,Diet Sparkling red cherry,Marks & Spencer,No added sugar,Diet Sparkling red cherry | Marks & Spencer,1,1,0,no added sugar claim
+38261857354,Kosher Dill Pickles,Bubbies,No added sugar,Kosher Dill Pickles | Bubbies,1,1,0,no added sugar claim
+16229917609,Coconut Water with pomegranate,"Foco,  Thai Agri Foods Co.  Ltd.",,"Coconut Water with pomegranate | Foco,  Thai Agri Foods Co.  Ltd.",0,0,0,no claim text present
+14054061054,strawberry c monster smoothie,odwalla,No added sugar,strawberry c monster smoothie | odwalla,1,1,0,no added sugar claim
+24000132110,Fruit Cocktail,"Del Monte,  Del Monte Foods",No added sugar,"Fruit Cocktail | Del Monte,  Del Monte Foods",1,1,0,no added sugar claim
+232746,Florida pink grapefruit,Marks And Spencer,,Florida pink grapefruit | Marks And Spencer,0,0,0,no claim text present
+14054093055,Blueberry Monster,,No added sugar,Blueberry Monster |,1,1,0,no added sugar claim
+22014640508,Organic apple juice,North Coast,,Organic apple juice | North Coast,1,0,0,organic claim (not evaluated)
+14054026053,Mango tango fruit smoothie blend,odwalla,,Mango tango fruit smoothie blend | odwalla,0,0,0,no claim text present
+38900015053,Tropical Gold Premium Pineapple,Dole,No added sugar,Tropical Gold Premium Pineapple | Dole,1,1,0,no added sugar claim
+71604,CRANBERRY & RASPERRY JUICE DRINK,M&S,No added sugar,CRANBERRY & RASPERRY JUICE DRINK | M&S,1,1,0,no added sugar claim
+41235000830,"Ghost pepper gourmet salsa, ghost pepper, hot",Mrs. Renfro's,salt,"Ghost pepper gourmet salsa, ghost pepper, hot | Mrs. Renfro's",0,0,0,ingredient word salt only
+22014005604,Organic Apple Sauce,North Coast,,Organic Apple Sauce | North Coast,1,0,0,organic claim (not evaluated)
+38900004262,Dole Pineapple In Juice,Dole,,Dole Pineapple In Juice | Dole,0,0,0,no claim text present
+24000224433,Pink Guava,Del Monte,,Pink Guava | Del Monte,0,0,0,no claim text present
+38900004071,pineapple tidbits,Dole,,pineapple tidbits | Dole,0,0,0,no claim text present
+257084,Apple & Raspberry Juice Drink,Marks & Spencer,,Apple & Raspberry Juice Drink | Marks & Spencer,0,0,0,no claim text present
+15654001068,Applesauce Natural,Mott's,No added sugar,Applesauce Natural | Mott's,1,1,0,no added sugar claim
+24000163077,Sweet Peas,Del Monte,No added sugar,Sweet Peas | Del Monte,1,1,0,no added sugar claim
+232494,Diet Sparkling Cloudy Apple,Marks & Spencer,,Diet Sparkling Cloudy Apple | Marks & Spencer,0,0,0,no claim text present
+21130335404,Sliced Peaches,Signature Select,No added sugar,Sliced Peaches | Signature Select,1,1,0,no added sugar claim
+11150589345,"Ice Cream Sandwiches, Vanilla",Roundy's,No added sugar,"Ice Cream Sandwiches, Vanilla | Roundy's",1,1,0,no added sugar claim
+38900030605,Mixed Fruit In 100% Fruit Juice,Dole,,Mixed Fruit In 100% Fruit Juice | Dole,0,0,0,no claim text present
+29145081064,Organic Sprouted Grain Loaf (Sliced),Premiere Moisson,,Organic Sprouted Grain Loaf (Sliced) | Premiere Moisson,1,0,0,organic claim (not evaluated)
+31200457035,Cranberry,OceanSpray,,Cranberry | OceanSpray,0,0,0,no claim text present
+233040,Chewy Caramel Chocolate Bars 5 x (180g),Sainsbury's,,Chewy Caramel Chocolate Bars 5 x (180g) | Sainsbury's,0,0,0,no claim text present
+17663003941,Citror,,,Citror |,0,0,0,no claim text present
+38261857477,Sauerkraut,Bubbies,No added sugar,Sauerkraut | Bubbies,1,1,0,no added sugar claim
+29145009785,100% Whole Wheat Round Loaf,Première Moisson,,100% Whole Wheat Round Loaf | Première Moisson,0,0,0,no claim text present
+154635,Bitter lemon,Sainsbury's,No added sugar,Bitter lemon | Sainsbury's,1,1,0,no added sugar claim
+21200001741,Mozzarella 45% Fett i.Tr.,REWE Bio,,Mozzarella 45% Fett i.Tr. | REWE Bio,0,0,0,no claim text present
+41220987979,Mild Salsa,H-E-B,,Mild Salsa | H-E-B,0,0,0,no claim text present
+21908466125,Premium Organic Blueberries,Small Planet Foods  Inc.,,Premium Organic Blueberries | Small Planet Foods  Inc.,1,0,0,organic claim (not evaluated)
+31493061056,Organic Spelt English Muffins,Rudi's Organic Bakery,ORGANIC HIGH OLEIC SUNFLOWER,Organic Spelt English Muffins | Rudi's Organic Bakery,1,0,0,organic ingredient claim (not evaluated)
+33844004965,Organic Extra Virgin Olive Oil,Badia,,Organic Extra Virgin Olive Oil | Badia,1,0,0,organic claim (not evaluated)
+11150982375,"Simply roundy's, organic fruit spread, raspberry",Simply Roundy's,,"Simply roundy's, organic fruit spread, raspberry | Simply Roundy's",1,0,0,organic claim (not evaluated)
+41220851355,"H-e-b organics, sunflower seeds","H-E-B,  H E Butt Grocery Company",Organic dry roasted sunflower seeds,"H-e-b organics, sunflower seeds | H-E-B,  H E Butt Grocery Company",1,0,0,organic ingredient claim (not evaluated)
+22506280168,Organic Unpasteurized Apple Cider Vinegar Filtered,"Spectrum,  Spectrum Naturals",,"Organic Unpasteurized Apple Cider Vinegar Filtered | Spectrum,  Spectrum Naturals",1,0,0,organic claim (not evaluated)
+32601902896,"Street taco blend crunchy slaw cabbage and cilantro, street taco blend",Earthbound Farm Organic,,"Street taco blend crunchy slaw cabbage and cilantro, street taco blend | Earthbound Farm Organic",1,0,0,organic claim (not evaluated)
+24000221135,"Contadina, organic roma style tomato sauce, sea salt","Contadina, Del Monte",,"Contadina, organic roma style tomato sauce, sea salt | Contadina, Del Monte",1,0,0,organic claim (not evaluated)
+16291442399,Organic Whole Black Peppercorns,Morton & Bassett Spices,,Organic Whole Black Peppercorns | Morton & Bassett Spices,1,0,0,organic claim (not evaluated)
+41253032004,Organic White Wine Vinegar,The Napoleon Co.,,Organic White Wine Vinegar | The Napoleon Co.,1,0,0,organic claim (not evaluated)
+30568115236,"Organic Hard Candies, Apple",Go Organic,,"Organic Hard Candies, Apple | Go Organic",1,0,0,organic claim (not evaluated)
+41415155336,"Publix, greenwise, organic white corn tortilla chips","Publix,  Publix Super Markets  Inc.",organic vegetable oil (organic sunflower and,"Publix, greenwise, organic white corn tortilla chips | Publix,  Publix Super Markets  Inc.",1,0,0,organic ingredient claim (not evaluated)
+13964546552,Organic Coconut Jam,Coconut World,,Organic Coconut Jam | Coconut World,1,0,0,organic claim (not evaluated)
+39153414907,Garden Organic Sauce,Colavita,,Garden Organic Sauce | Colavita,1,0,0,organic claim (not evaluated)
+15400192521,Organic Chamomile Herbal Tea,Natural Directions,,Organic Chamomile Herbal Tea | Natural Directions,1,0,0,organic claim (not evaluated)
+20601407756,Organic Popcorn,Heinen's,,Organic Popcorn | Heinen's,1,0,0,organic claim (not evaluated)
+21908501413,Premium Organic Mixed Vegetables,"Cascadian Farm Organic,  Small Planet Foods  Inc.",,"Premium Organic Mixed Vegetables | Cascadian Farm Organic,  Small Planet Foods  Inc.",1,0,0,organic claim (not evaluated)
+41220021833,Organic Italian Soda,"Central Market,  H E Butt Grocery Company",,"Organic Italian Soda | Central Market,  H E Butt Grocery Company",1,0,0,organic claim (not evaluated)
+34325003446,Organic Dried Mango,"Setton Farms,  Setton International Foods Inc",,"Organic Dried Mango | Setton Farms,  Setton International Foods Inc",1,0,0,organic claim (not evaluated)
+17077036054,Organic whole milk kefir,"Lifeway, Lifeway Foods Inc.",,"Organic whole milk kefir | Lifeway, Lifeway Foods Inc.",1,0,0,organic claim (not evaluated)
+30034085629,"Giant eagle, nature's basket, organic cut green beans","Giant Eagle,  Giant Eagle  Inc.",,"Giant eagle, nature's basket, organic cut green beans | Giant Eagle,  Giant Eagle  Inc.",1,0,0,organic claim (not evaluated)
+13971000085,"Bare fruit, organic bake-dried mango chunks","Bare,  Bare Fruit",,"Bare fruit, organic bake-dried mango chunks | Bare,  Bare Fruit",1,0,0,organic claim (not evaluated)
+32601089313,Organic Kale Caesar,Earthbound Farm Organic,SEEDS: ORGANIC DRY ROASTED SUNFLOWER KERNELS,Organic Kale Caesar | Earthbound Farm Organic,1,0,0,organic ingredient claim (not evaluated)
+23923300347,Organic Winter Squash,Earth's Best,Organic,Organic Winter Squash | Earth's Best,1,0,0,organic claim (not evaluated)
+41420560354,"Black forest organic, organic sour licorice bites, strawberry","Black Forest,  Black Forest Organic",organic sunflower oil,"Black forest organic, organic sour licorice bites, strawberry | Black Forest,  Black Forest Organic",1,0,0,organic ingredient claim (not evaluated)
+15400191524,Organic Ketchup,Natural Directions,,Organic Ketchup | Natural Directions,1,0,0,organic claim (not evaluated)
+36800043121,Organic Applesauce,Full Circle,,Organic Applesauce | Full Circle,1,0,0,organic claim (not evaluated)
+11110837981,Earl Grey Black Tea,Simple Truth Organic,,Earl Grey Black Tea | Simple Truth Organic,1,0,0,organic claim (not evaluated)
+22014240623,Apple Sauce,North Coast,,Apple Sauce | North Coast,0,0,0,no claim text present
+23923201965,Organic Sunny Days Snack Bars,Earth's Best,ORGANIC SUNFLOWER AND,Organic Sunny Days Snack Bars | Earth's Best,1,0,0,organic ingredient claim (not evaluated)
+24000165002,Tomates pelées au jus Bio,"Del Monte,DelMonte",,"Tomates pelées au jus Bio | Del Monte,DelMonte",1,0,0,organic claim (not evaluated)
+37600106481,Skippy,Skippy,,Skippy | Skippy,0,0,0,no claim text present
+16000006287,Nuggets Jambon de dinde Fromage,Le Gaulois,,Nuggets Jambon de dinde Fromage | Le Gaulois,0,0,0,no claim text present
+39047012035,Walkers portion round,Walkers,,Walkers portion round | Walkers,0,0,0,no claim text present
+335033,Pain de mie sans crôute cereales et graines,Weight Watchers,,Pain de mie sans crôute cereales et graines | Weight Watchers,0,0,0,no claim text present
+289719,Smooth Almond Butter,By Sainsbury's,,Smooth Almond Butter | By Sainsbury's,0,0,0,no claim text present
+19100009714,Croustibat,,,Croustibat |,0,0,0,no claim text present
+39047011656,SHORTBREAD PUR BEURRE 125G - WALKERS - 125g,Walkers,,SHORTBREAD PUR BEURRE 125G - WALKERS - 125g | Walkers,0,0,0,no claim text present
+37600106412,Beurre de Cacahuètes Extra-Crunchy,"Hormel Foods Corporation, Skippy",,"Beurre de Cacahuètes Extra-Crunchy | Hormel Foods Corporation, Skippy",0,0,0,no claim text present
+39047011496,Chocolate Chip Shortbread,Walkers,,Chocolate Chip Shortbread | Walkers,0,0,0,no claim text present
+37600106009,Peanut butter Creamy,Skippy,,Peanut butter Creamy | Skippy,0,0,0,no claim text present
+39047001466,Portion shortbread fingers,Walkers,,Portion shortbread fingers | Walkers,0,0,0,no claim text present
+74742,Taste the Difference Raspberry Conserve,"Sainsbury's, Taste the difference",,"Taste the Difference Raspberry Conserve | Sainsbury's, Taste the difference",0,0,0,no claim text present
+36856,Apricot jam,Sainsbury's,,Apricot jam | Sainsbury's,0,0,0,no claim text present
+41220883202,Couscous,H-E-B,SALT,Couscous | H-E-B,0,0,0,no claim text present
+22009110610,"Cibo naturals, vegan sun-dried tomato pesto",Cibo Naturals,,"Cibo naturals, vegan sun-dried tomato pesto | Cibo Naturals",0,0,0,ingredient word salt only
+178631,DESICCATED COCONUT,"Sainsbury's, by sainsbury's",,"DESICCATED COCONUT | Sainsbury's, by sainsbury's",0,0,0,no claim text present
+25583005211,Slow roasted chick'n barbecue,Tofurky,,Slow roasted chick'n barbecue | Tofurky,0,0,0,no claim text present
+328920,Avocado oil spread,M&S,,Avocado oil spread | M&S,0,0,0,no claim text present
+36800372818,Almond Non-Dairy Beverage,Full Circle Market,,Almond Non-Dairy Beverage | Full Circle Market,0,0,0,no claim text present
+33776011796,Vegan Shortening,Earth Balance,,Vegan Shortening | Earth Balance,0,0,0,no claim text present
+333467,Natural Pecans,M&S Food,,Natural Pecans | M&S Food,0,0,0,no claim text present
+25583005402,White Quinoa Veggie Burger,"Tofurky,  Turtle Island Foods  Inc.",,"White Quinoa Veggie Burger | Tofurky,  Turtle Island Foods  Inc.",0,0,0,no claim text present
+37212000399,Fusilli Corti Bucati N°108,La Molisana,,Fusilli Corti Bucati N°108 | La Molisana,0,0,0,no claim text present
+175661,Walnut pieces,Sainsbury's,Vegan,Walnut pieces | Sainsbury's,0,0,0,no claim text present
+311304,Roasted Red Pepper Houmous,M&S,Chickpeas)\r\nRoasted Red Peppers (20%)\r\nRapeseed Oil\r\nTahini (Sesame Seed Paste)\r\nWater\r\nRed Chilli Purée\r\nConcentrated Lemon Juice\r\nExtra Virgin Olive Oil\r\nSugar\r\nSalt\r\nGarlic\r\nColour: Paprika Extract'},Roasted Red Pepper Houmous | M&S,1,1,0,explicit vegan claim
+185677,Roasted vegetable couscous,M&S,,Roasted vegetable couscous | M&S,0,0,0,"ingredient list fragment, not a claim"
+25583004221,Plant-Based Deli Slices Peppered,Tofurky,,Plant-Based Deli Slices Peppered | Tofurky,0,0,0,no claim text present
+88886,British Self Raising Flour,Marks & Spencer,,British Self Raising Flour | Marks & Spencer,0,0,0,no claim text present
+33776080525,Vegan White Cheddar Flavor Mac & Cheese,Restaurant Item,SALT,Vegan White Cheddar Flavor Mac & Cheese | Restaurant Item,0,0,0,no claim text present
+278737,Quinoa,Sainsbury's,,Quinoa | Sainsbury's,0,0,0,ingredient word salt only
+37466016450,Dark Chocolate,Lindt EXCELLENCE,,Dark Chocolate | Lindt EXCELLENCE,0,0,0,no claim text present
+159388,Coconut Cream by Sainsbury's,Sainsburys,Emulsifier: Mono - and Diglycerides of Fatty Acids,Coconut Cream by Sainsbury's | Sainsburys,0,0,0,no claim text present
+33776011741,Vegan Buttery Sticks,Earth Balance,,Vegan Buttery Sticks | Earth Balance,0,0,0,ingredient list fragment
+25583005259,Slow Roasted Chick'N Thai Basil,Tofurky,,Slow Roasted Chick'N Thai Basil | Tofurky,0,0,0,no claim text present
+16741255609,Farmstand Flaxseed Vegan Breakfast Sandwich,Sweet Earth Natural Foods,VEGAN CHICKPEA PATTY : SILKEN TOFU,Farmstand Flaxseed Vegan Breakfast Sandwich | Sweet Earth Natural Foods,1,1,0,vegan chickpea patty claim
+11210002500,Buffalo Style Hot Sauce,Tabasco,,Buffalo Style Hot Sauce | Tabasco,0,0,0,no claim text present
+78726,Roasted veg with avocado,Marks & Spencer,,Roasted veg with avocado | Marks & Spencer,0,0,0,no claim text present
+302661,Organic Houmous ~ With added extra virgin olive oil,Marks & Spencer,,Organic Houmous ~ With added extra virgin olive oil | Marks & Spencer,1,0,0,organic claim (not evaluated)
+345576,Naturally sweet sweetcorn in water,Sainsbury's,,Naturally sweet sweetcorn in water | Sainsbury's,0,0,0,name phrase only
+378673,Vegan meican style 3 bean wrap,Marks & Spencer,,Vegan meican style 3 bean wrap | Marks & Spencer,0,0,0,vegan only in name
+390187,phizzy pigtails,percy pig,,phizzy pigtails | percy pig,0,0,0,no claim text present
+178396,Extra virgin olive oil,Sainsbury’s,,Extra virgin olive oil | Sainsbury’s,0,0,0,no claim text present
+27000442128,Original Sloppy Joe Sauce,Manwich,HIGH FRUCTOSE CORN SYRUP,Original Sloppy Joe Sauce | Manwich,0,0,0,ingredient info only
+38000181771,frosted flakes,Kelloggs,,frosted flakes | Kelloggs,0,0,0,no claim text present
+156929,Extremely chocolatey ginger biscuits,Marks And Spencer,,Extremely chocolatey ginger biscuits | Marks And Spencer,0,0,0,descriptive name only
+2000010775,Escalope soja et blé,Herta,,Escalope soja et blé | Herta,0,0,0,no claim text present
+159111,Coconut Milk,Sainsbury's,,Coconut Milk | Sainsbury's,0,0,0,no claim text present
+71574,"Smoothie Orange, Carrot & Mango",Marks & Spencer,,"Smoothie Orange, Carrot & Mango | Marks & Spencer",0,0,0,no claim text present
+59718,"Sweetcorn, Carrots, Peas & Broccoli With Seasoned Butter",M&S Eat Well,,"Sweetcorn, Carrots, Peas & Broccoli With Seasoned Butter | M&S Eat Well",0,0,0,no claim text present
+41220965878,Greek vanilla yogurt,H-E-B,STRAINED YOGURT (CULTURED PASTEURIZED GRADE A FAT FREE MILK,Greek vanilla yogurt | H-E-B,1,1,0,fat free milk phrase
+138932,Rye & Wheat Crackers,Marks & Spencer,Sunflower Oil - Sea Salt Coarse Black Pepper Honey Dried Skimmed Milk,Rye & Wheat Crackers | Marks & Spencer,0,0,0,ingredients list fragment
+11730,Cranberry & Orange Cookies,Marks & Spencer,sugar,Cranberry & Orange Cookies | Marks & Spencer,0,0,0,ingredient word sugar only
+219440,Wood Fired Pizza Mizzarella Di Bufala Margherita,M&S,,Wood Fired Pizza Mizzarella Di Bufala Margherita | M&S,0,0,0,no claim text present
+362702,Sea Salt and Black Pepper Cashews,Marks & Spencer,,Sea Salt and Black Pepper Cashews  | Marks & Spencer,0,0,0,no claim text present
+39047153707,Fruit Crumble Biscuits,Weight Watchers,,Fruit Crumble Biscuits | Weight Watchers,0,0,0,no claim text present
+104302,Blueberry Muffins,Marks & Spencer,,Blueberry Muffins | Marks & Spencer,0,0,0,no claim text present
+390194,Percy piglets,Marks & Spencer,,Percy piglets | Marks & Spencer,0,0,0,no claim text present
+287678,British strawberry jam & clotted cream butter cream swiss roll,Marks & Spencer,Sodium Bicarbonate • Salt • Emulsifier: E471,British strawberry jam & clotted cream butter cream swiss roll | Marks & Spencer,0,0,0,raising agents list only
+14100075233,Goldfish Baked Snack Crackers Cheddar,Pepperidge Farm,"""NutritiOn Facts Serving Size 1 Package Amount Per Servin calories 130 Calories from Fat 40 % Daily Value* Total Fat 4",Goldfish Baked Snack Crackers Cheddar | Pepperidge Farm,0,0,0,nutrition panel text only
+198370,Butterscotch Scottie Dogs,Sainsbury's,,Butterscotch Scottie Dogs | Sainsbury's,0,0,0,no claim text present
+146098,Natural yogurt,Sainsbury's,,Natural yogurt | Sainsbury's,0,0,0,no claim text present
+38000138607,Salt & Vinegar Potato Crisps,Pringles,LACTOSE<,Salt & Vinegar Potato Crisps | Pringles,1,1,0,lactose content warning
+50685,RED & BLACK GUMS,Marks & Spencer,i) Suitable for vegetarians'},RED & BLACK GUMS | Marks & Spencer,1,1,0,suitable for vegetarians claim
+19101,Shortbread All Butter Fingers,Sainsbury's,(Salt),Shortbread All Butter Fingers | Sainsbury's,0,0,0,ingredient salt only
+159203,Sea Salt & Crushed Black Pepper Croutons,Sainsbury's,,Sea Salt & Crushed Black Pepper Croutons | Sainsbury's,0,0,0,no claim text present
+168069,Ultimate Five Grain Crumpets,Marks & Spencer,,Ultimate Five Grain Crumpets | Marks & Spencer,0,0,0,no claim text present
+366861,Chocolate Flavoured Milk,M&S,Semi-Skimmed Milk (92%) · Sugar · Fat Reduced Cocoa Powder,Chocolate Flavoured Milk | M&S,0,0,0,ingredients list fragment
+283519,Marzipan Bar,M&S,Sugar,Marzipan Bar | M&S,0,0,0,ingredient sugar only
+176378,Broccoli Cheese Tomato Quiche,Marks & Spencers,Wheatflour contains  Gluten<,Broccoli Cheese Tomato Quiche | Marks & Spencers,1,1,0,gluten warning phrase
+11210607040,Tabasco smoked chipotle,"McIlhenny Company, Tabasco",,"Tabasco smoked chipotle | McIlhenny Company, Tabasco",0,0,0,no claim text present
+180344,Spinash et ricotta cannelloni,Marks & Spencer,,Spinash et ricotta cannelloni | Marks & Spencer,0,0,0,no claim text present
+28400666558,Poppin' Jalapeno Doritos,doritos frito-lay,,Poppin' Jalapeno Doritos | doritos frito-lay,0,0,0,no claim text present
+246255,Soft Golden Wholemeal Farmhouse,Marks and Spencer,Farine de blé fermenté déshydraté (contient  Gluten<,Soft Golden Wholemeal Farmhouse | Marks and Spencer,1,1,0,gluten warning phrase
+31059,English Muffins,Marks & Spencer,,English Muffins | Marks & Spencer,0,0,0,no claim text present
+121903,Extremely chocolate y caramels,Marks & Spencer,,Extremely chocolate y caramels | Marks & Spencer,0,0,0,descriptive name only
+399500,Mozzarella Santini & Sundelisi tomate salad,M&s,Sunflower Oil· Salt,Mozzarella Santini & Sundelisi tomate salad | M&s,0,0,0,ingredient list fragment
+20685000935,Hand Cooked Potato Chips,Cape Cod,,Hand Cooked Potato Chips | Cape Cod,0,0,0,no claim text present
+30034053277,Organic Unsweetened Apple Sauce,Giant Eagle,,Organic Unsweetened Apple Sauce | Giant Eagle,1,0,0,organic claim (not evaluated)
+28400083591,Smartfood Popcorn White Cheddar Cheese,Smartfood,No gluten,Smartfood Popcorn White Cheddar Cheese | Smartfood,1,1,0,explicit gluten-free claim
+31142001143,Burrata,BelGioioso,No gluten,Burrata | BelGioioso,1,1,0,explicit gluten-free claim
+11110993786,mini pepperoni,Kroger,No gluten,mini pepperoni | Kroger,1,1,0,explicit gluten-free claim
+386982,2 cheese & onion rolls,Marks & Spencer,superior vegetarians to serve cold-fo product when eati and allow to cool c serving,2 cheese & onion rolls | Marks & Spencer,0,0,0,vegetarian suitability mention
+153720,Drinking Chocolate,Sainsbury's,,Drinking Chocolate | Sainsbury's,0,0,0,no claim text present
+36800096943,Organic Yellow Mustard,"Full Circle,  Topco",ORGANIC YELLOW MUSTARD SEED,"Organic Yellow Mustard | Full Circle,  Topco",1,0,0,organic ingredient claim (not evaluated)
+41231000131,100% Pure Butter,Kate's,Fats,100% Pure Butter | Kate's,0,0,0,nutrient group word only
+21908812472,Cheddar Tortilla Chips,"Food Should Taste Good, Small Planet Foods  Inc.",,"Cheddar Tortilla Chips | Food Should Taste Good, Small Planet Foods  Inc.",0,0,0,no claim text present
+19646001036,Organic Diced Tomatoes In Tomato Juice,"Harmons,  Harmons Inc",,"Organic Diced Tomatoes In Tomato Juice | Harmons,  Harmons Inc",0,0,0,organic in name only (ignored)
+11110856326,Puree Canola Oil,Kroger,No gluten,Puree Canola Oil | Kroger,1,1,0,explicit gluten-free style claim
+41220979806,Dry Roasted Almonds,"Organics,  H-E-B",,"Dry Roasted Almonds | Organics,  H-E-B",0,0,0,"brand uses 'Organics', no claim text"
+38101009653,Black Pepper Coated Italian Dry Salami,Busseto Foods  Inc.,SALT,Black Pepper Coated Italian Dry Salami | Busseto Foods  Inc.,0,0,0,ingredient word salt only
+31493543736,Colorado Cracked Wheat Bread,Rudi's Organic Bakery,ORGANIC HIGH OLEIC SUNFLOWER,Colorado Cracked Wheat Bread | Rudi's Organic Bakery,0,0,0,organic/high oleic ingredient phrase only
+11110977243,Black Forest Uncured Ham,Kroger,No gluten,Black Forest Uncured Ham | Kroger,1,1,0,explicit gluten-free style claim
+28700116647,Organic Apple Sauce,Tree Top Inc.,,Organic Apple Sauce | Tree Top Inc.,0,0,0,organic in name only (ignored)
+39153414754,Organic sauce,Colavita,,Organic sauce | Colavita,0,0,0,organic in name only (ignored)
+36632019547,STRRAWBERRY FLAVORED BLENDED GREEK YOGURT,OIKOS TRIPLE ZERO,no-gluten,STRRAWBERRY FLAVORED BLENDED GREEK YOGURT | OIKOS TRIPLE ZERO,1,1,0,explicit gluten-free style claim
+11535505663,"Organic Cannellini Beans, White Kidney Beans",Wild Harvest,,"Organic Cannellini Beans, White Kidney Beans | Wild Harvest",0,0,0,organic in name only (ignored)
+24182002263,Organic Cajun Rice & Beans,Eden,,Organic Cajun Rice & Beans | Eden,0,0,0,organic in name only (ignored)
+26825000117,Sugar Free BBQ Sauce Hickory Flavored,G Hughes Smokehouse,No gluten,Sugar Free BBQ Sauce Hickory Flavored | G Hughes Smokehouse,1,1,0,explicit gluten-free style claim
+22506137202,Canola Oil,Restaurant Item, '100% MECHANICALLY (EXPELLER) PRESSED REFINED ORGANIC CANOLA OIL,Canola Oil | Restaurant Item,0,0,0,organic/processing ingredient phrase only
+15400196314,Organic Soy Beans,Natural Directions,,Organic Soy Beans | Natural Directions,0,0,0,organic in name only (ignored)
+11140424007,Classic mashed potatoes,Basic American Foods,No gluten,Classic mashed potatoes | Basic American Foods,1,1,0,explicit gluten-free style claim
+41335000501,Italian Dressing & Marinade,Ken's Steak House,No gluten,Italian Dressing & Marinade | Ken's Steak House,1,1,0,explicit gluten-free style claim
+11535504413,Organic Roasted Garlic Pasta Sauce,Wild Harvest,,Organic Roasted Garlic Pasta Sauce | Wild Harvest,0,0,0,organic in name only (ignored)
+129299,Red Kidney Beans,Sainsbury's,,Red Kidney Beans | Sainsbury's,0,0,0,no claim text present
+28400160209,Lay's Wavy Original Potato Chips 10 Ounce Bag,"Lay's,Fritolay",,"Lay's Wavy Original Potato Chips 10 Ounce Bag | Lay's,Fritolay",0,0,0,no claim text present
+11535505458,Organic Petite Diced Tomatoes,Wild Harvest,,Organic Petite Diced Tomatoes | Wild Harvest,0,0,0,organic in name only (ignored)
+120920,Brown rice,"Sainsbury's,by sainsbury's",,"Brown rice | Sainsbury's,by sainsbury's",0,0,0,no claim text present
+41271009743,Caramel macchiato creamer,International Delight,,Caramel macchiato creamer | International Delight,0,0,0,no claim text present
+37600105064,Natural Creamy Peanut Butter Spread,"Skippy,Hormel Foods  Llc",No gluten,"Natural Creamy Peanut Butter Spread | Skippy,Hormel Foods  Llc",1,1,0,explicit gluten-free style claim
+37600105217,Creamy Natural Peanut Butter Spread With Honey,Skippy,No gluten,Creamy Natural Peanut Butter Spread With Honey | Skippy,1,1,0,explicit gluten-free claim
+2000005924,Sablés  chocolat au lait,Monoprix Bio,,Sablés  chocolat au lait | Monoprix Bio,0,0,0,no claim text present (bio ignored)
+10300863649,Cocoa Roast Almonds,Emerald,,Cocoa Roast Almonds | Emerald,0,0,0,no claim text present
+11110799036,Movie theater butter microwave popcorn bags,Kroger,No gluten,Movie theater butter microwave popcorn bags | Kroger,1,1,0,explicit gluten-free claim
+11693,All Butter Belgian White Chocolate Chunk Cookies,Marks & Spencer,,All Butter Belgian White Chocolate Chunk Cookies | Marks & Spencer,0,0,0,no claim text present
+20038000100,Italian Strained Tomatoes,Flora,,Italian Strained Tomatoes | Flora,0,0,0,no claim text present
+11110016188,Peanut Butter,Kroger,No gluten,Peanut Butter | Kroger,1,1,0,explicit gluten-free claim
+22655702054,Fresh Everyday Ground Turkey,Butterball  Llc,No gluten,Fresh Everyday Ground Turkey | Butterball  Llc,1,1,0,explicit gluten-free claim
+25317323000,Organic Wild Mushroom Chicken Sausage,Applegate,,Organic Wild Mushroom Chicken Sausage | Applegate,0,0,0,organic in name only (ignored)
+11110907653,Baking Powder,Kroger,No gluten,Baking Powder | Kroger,1,1,0,explicit gluten-free claim
+13562303854,Cheddar Bunnies,Annie's Organic,Organic Expeller-pressed Sunflower Oil,Cheddar Bunnies | Annie's Organic,0,0,0,organic ingredient phrase only
+11110912381,Quinoa,Simple Truth Organic,No gluten,Quinoa | Simple Truth Organic,1,1,0,explicit gluten-free style claim
+16291443129,Organic Chives,Morton & Bassett Spices,,Organic Chives | Morton & Bassett Spices,0,0,0,organic in name only (ignored)
+11140871023,Gluten free mashed potatoes,Hungry jack,No gluten,Gluten free mashed potatoes | Hungry jack,1,1,0,gluten-free product name and label claim
+24000102687,Crunchy snack appel,Del Monte,,Crunchy snack appel | Del Monte,0,0,0,no claim text present
+39978004680,Chocolate cake mix gluten free,"Bob's Red Mill,  Bob's Red Mill Natural Foods  Inc.",Chocolate cake mix gluten free,"Chocolate cake mix gluten free | Bob's Red Mill,  Bob's Red Mill Natural Foods  Inc.",1,1,0,gluten-free product name
+41220335602,Organics 100% juice cranberry blend,"Organics,  H-E-B",Organics 100% juice cranberry blend,"Organics 100% juice cranberry blend | Organics,  H-E-B",1,1,0,100% juice claim (brand word 'Organics' ignored)
+25484000124,Extra Firm Tofu,Vitasoy Usa Inc.,No gluten,Extra Firm Tofu | Vitasoy Usa Inc.,1,1,0,explicit gluten-free claim
+39978003164,Stone Ground White Rice Flour,"Bob's Red Mill,  Bob's Red Mill Natural Foods  Inc.",No gluten,"Stone Ground White Rice Flour | Bob's Red Mill,  Bob's Red Mill Natural Foods  Inc.",1,1,0,explicit gluten-free claim
+32601951344,"Earthbound farm, chopped salad asian kit, organic","Earthbound Farm,  Wwf Operating Company",salt,"Earthbound farm, chopped salad asian kit, organic | Earthbound Farm,  Wwf Operating Company",0,0,0,ingredient word salt only
+11110799029,Microwave popcorn original butter,Kroger,No gluten,Microwave popcorn original butter | Kroger,1,1,0,explicit gluten-free claim
+28042001922,Red Hots Sausage,Georgia Reds,SALT,Red Hots Sausage | Georgia Reds,0,0,0,ingredient word salt only
+11110871442,Organic Coconut Sugar,Simple Truth,No gluten,Organic Coconut Sugar | Simple Truth,1,1,0,explicit gluten-free claim
+11110367372,Organic Green Peas,Naturally Preferred,,Organic Green Peas | Naturally Preferred,0,0,0,organic in name only (ignored)
+11594100472,Crispy & Crunchy Potato Chips,Pinnacle Foods Group Llc,No gluten,Crispy & Crunchy Potato Chips | Pinnacle Foods Group Llc,1,1,0,explicit gluten-free claim
+34325029217,Organic Royal Quinoa,Setton Farms,,Organic Royal Quinoa | Setton Farms,0,0,0,no claim text present
+52603054508,Organic low sodium vegetable broth,"Pacific, Pacific Foods Of Oregon  Inc.",USDA Organic,"Organic low sodium vegetable broth | Pacific, Pacific Foods Of Oregon  Inc.",0,0,0,organic certification (ignored)
+84253242950,Organic Low Sodium Vegetable Broth,"Imagine,The Hain Celestial Group",Canada Organic,"Organic Low Sodium Vegetable Broth | Imagine,The Hain Celestial Group",0,0,0,organic certification (ignored)
+42272905829,Lentil Vegetable Organic Soup,Amy's Kitchen (Lower Sodium),Certified B Corporation,Lentil Vegetable Organic Soup | Amy's Kitchen (Lower Sodium),1,0,0,certification/logo claim
+766694301204,Tortilla Soup Mix,"Anderson House Foods, Frontier Soups",Not a sodium free food,"Tortilla Soup Mix | Anderson House Foods, Frontier Soups",1,1,0,sodium disclaimer (not sodium-free)
+3175681851849,Pomme 🍏 🍎 Noisette🥜,Gerblé,Enriched with vitamins,Pomme 🍏 🍎 Noisette🥜 | Gerblé,1,1,0,vitamin enrichment claim
+3392460481114,Biscottes Pleine vie Sans sel ajouté,"Heudebert, Lu, Mondelez",Peu ou pas de sel,"Biscottes Pleine vie Sans sel ajouté | Heudebert, Lu, Mondelez",1,0,0,sodium descriptive claim (not evaluated)
+3250390977049,Jambon sup dd csn tsr 4t 140g,Monique ranou,Low salt,Jambon sup dd csn tsr 4t 140g | Monique ranou,1,1,0,low salt sodium claim
+39400018834,Black Beans,Bush's Best,50% less salt,Black Beans | Bush's Best,1,1,0,less salt sodium claim
+75810004258,Organic Tamari Gluten Free Soy Sauce Reduced Sodium,San-J,no-gmos,Organic Tamari Gluten Free Soy Sauce Reduced Sodium | San-J,1,0,0,non-GMO ingredient-free claim (not evaluated)
+60383216092,Reduced Sodium Chicken Broth,"Sans nom, No Name",Made in Germany,"Reduced Sodium Chicken Broth | Sans nom, No Name",1,0,0,country of origin claim
+62639356743,Reduced Sodium Soy Sauce,Western Family,MK Kosher,Reduced Sodium Soy Sauce | Western Family,1,0,0,kosher certification/logo
+21908812427,Fd shd tst gd ktl cked sweet pot chips original,Food Should Taste Good,Reduced fat,Fd shd tst gd ktl cked sweet pot chips original | Food Should Taste Good,1,1,0,reduced fat claim
+20267605,Cashewkerne,"Alesto, 05 x Lidl 10.25",European Vegetarian Union,"Cashewkerne | Alesto, 05 x Lidl 10.25",1,0,0,vegetarian certification/logo
+5010477348678,Special Muesli 30% fruits & noix,Jordans,Iron source,Special Muesli 30% fruits & noix | Jordans,1,1,0,iron source nutrient claim
+5000157078773,BEANZ In a rich tomato sauce NO ADDED SUGAR,HEINZ,Sans gluten,BEANZ In a rich tomato sauce NO ADDED SUGAR | HEINZ,1,1,0,explicit gluten-free claim (french)
+5010477348630,"Muesli bio 36% fruits, noix & graines",Jordans,Certified by Ecocert,"Muesli bio 36% fruits, noix & graines | Jordans",1,0,0,organic certification/logo
+20615420,Paahdettu maapähkinä,Alesto,Nutriscore B,Paahdettu maapähkinä | Alesto,1,0,0,Nutri-Score rating claim
+5010477300508,Country Crisp with Sun-Ripe Strawberries imp,Jordans,Sustainable,Country Crisp with Sun-Ripe Strawberries imp | Jordans,1,0,0,sustainability/ethical claim
+5014213001063,Smooth peanut butter,Meridian,The Vegan Society,Smooth peanut butter | Meridian,1,0,0,vegan certification/logo
+4056489041320,Bio napitak od zobi,Vemondo,EG-Öko-Verordnung,Bio napitak od zobi | Vemondo,0,0,0,organic regulation reference (ignored)
+3177500000742,Unleavened Breads,Biscuiterie d'Agen,No added fat,Unleavened Breads | Biscuiterie d'Agen,1,1,0,no added fat claim
+5060088707975,Raw Fruit & Nut Bars - Salted Caramel,nākd,Cold pressed,Raw Fruit & Nut Bars - Salted Caramel | nākd,1,0,0,cold-pressed processing claim
+5010477308221,Jordans Country Crisp,Jordans,Absolutely nothing artificial,Jordans Country Crisp | Jordans,1,1,0,no artificial ingredients claim
+4061462190681,Chickpeas in Water,Four Seasons,No salt,Chickpeas in Water | Four Seasons,1,1,0,no salt sodium claim
+5010477348432,Country Crisp chocolat au lait,Jordans,Nutri-Score C/D,Country Crisp chocolat au lait | Jordans,1,0,0,Nutri-Score rating claim
+3380380046940,Tartines Craquantes Sarrasin,"Ekibio, Le Pain des Fleurs",Crossed Grain Trademark,"Tartines Craquantes Sarrasin | Ekibio, Le Pain des Fleurs",1,0,0,gluten-free certification/logo
+8005110413520,Tomater Hakkede Økologisk 400g Mutti,"Oluf lorentzen as, Mutti",IT-BIO-007,"Tomater Hakkede Økologisk 400g Mutti | Oluf lorentzen as, Mutti",0,0,0,organic certification code (ignored)
+5900012000232,"Olej rzepakowy z pierwszego tłoczenia, filtrowany",Kujawski,No additives,"Olej rzepakowy z pierwszego tłoczenia, filtrowany | Kujawski",1,1,0,no additives ingredient-free claim
+3245412901454,Noix de cajou grillées,Carrefour,Made in Belgium,Noix de cajou grillées | Carrefour,1,0,0,made in country of origin claim
+5060853640704,Super Berry Oat Bars,Bio & Me,No artificial preservatives,Super Berry Oat Bars | Bio & Me,1,1,0,no artificial preservatives claim
+30000567289,Instant Oatmeal Maple & Brown Sugar,Quaker,100% Whole Grain,Instant Oatmeal Maple & Brown Sugar | Quaker,1,1,0,whole grain claim
+30000567319,Instant Oatmeal Original,Quaker,American Heart Association,Instant Oatmeal Original | Quaker,1,0,1,heart association logo
+30000315958,Protein Instant Oatmeal Banana Nut,Quaker,Whole Grains Council,Protein Instant Oatmeal Banana Nut | Quaker,1,0,0,whole grain council logo
+791669620196,Quick oats,Ralston Foods,Whole Grain; Heart Healthy,Quick oats | Ralston Foods,1,0,1,whole grain and heart healthy claim
+30000570418,Protein Instant Oatmeal Maple & Brown Sugar,Quaker,Whole grain,Protein Instant Oatmeal Maple & Brown Sugar | Quaker,1,1,0,whole grain claim
+3033490545185,Activia bifidus nature 0% de mg 125 g x 8,"Activia,Danone",No fat,"Activia bifidus nature 0% de mg 125 g x 8 | Activia,Danone",1,1,0,no fat claim
+5411188106852,Alpro 2x blueberry 2x cherry,Alpro,100% vegetable,Alpro 2x blueberry 2x cherry | Alpro,1,1,0,100% vegetable (plant-based) claim
+5055940100513,Benecol,Benecol,Contains milk,Benecol | Benecol,1,0,0,allergen content statement (contains milk)
+5055940100537,Raspberry,Benecol,Low-content-of-saturated-fat,Raspberry | Benecol,1,1,0,low saturated fat claim
+5411188119586,2x Blackberry 2x Raspberry Cranberry,Alpro,ProTerra Certified,2x Blackberry 2x Raspberry Cranberry | Alpro,1,0,0,sustainability certification/logo
+854252,Low fat Greek style yogurt,Marks & Spencer,Not-suitable-for-nut-allergy-sufferers,Low fat Greek style yogurt | Marks & Spencer,1,0,0,allergen warning (not suitable for nut allergy)
+5060058332152,0% added sugar 0% fat strawberry Actimel,Danone,Rich in vitamin B6,0% added sugar 0% fat strawberry Actimel | Danone,1,1,0,rich in vitamin B6 claim
+5099749001893,Low Fat Bio Organic Natural Live Yogurt,Glenisk,Love Irish Food,Low Fat Bio Organic Natural Live Yogurt | Glenisk,1,0,0,branding/quality mark claim
+5010251431039,Low Fat Natural Yoghurt,Morrisons,Keep refrigerated,Low Fat Natural Yoghurt | Morrisons,0,0,0,storage instruction only
+4016241030573,Skyr | Natural Fat Free | 0% Fat,Arla,No Artificial Flavour & Colour,Skyr | Natural Fat Free | 0% Fat | Arla,1,1,0,no artificial flavour or colour claim
+78742016856,Greek Plain,Great Value,Grade A,Greek Plain | Great Value,1,0,0,grade/quality classification claim
+5060360501819,Free Peach Passion Fruit 0% Fat & 0% Added Sugar Yogurt 4 x,Light & Free,Verified,Free Peach Passion Fruit 0% Fat & 0% Added Sugar Yogurt 4 x | Light & Free,1,0,0,general verification/approval claim
+3564707081894,Yaourt nature 0% mg,"Bio Village, Marque Repère",Bio,"Yaourt nature 0% mg | Bio Village, Marque Repère",0,0,0,organic word only (ignored)
+4056489563662,Fromage blanc,"Envia, Lidl",Nutriscore A,"Fromage blanc | Envia, Lidl",1,0,0,nutrition score grade claim
+5015285810898,Three Bean Chilli,Free and Easy,No nuts,Three Bean Chilli | Free and Easy,1,1,0,nut-free allergen-free claim
+3175680011534,Biscuit lait chocolat,"Gerblé,Gerblé Vitalité,Nutrition & Santé",Rainforest Alliance,"Biscuit lait chocolat | Gerblé,Gerblé Vitalité,Nutrition & Santé",1,0,0,sustainability certification/logo
+3168930002987,Cuites au four nature,Lay’s,50% less fat,Cuites au four nature | Lay’s,1,1,0,50% less fat claim
+7622201693954,Light Philadelphia,Philadelphia,40% less fat,Light Philadelphia | Philadelphia,1,0,1,40% less fat claim
+3245550078681,Snack poppé T&H,Too GoodFrance,Afdiag,Snack poppé T&H | Too GoodFrance,1,0,0,gluten-related certification/logo
+3229820787985,Crème de coco légère,BJORG,30% less fat,Crème de coco légère | BJORG,1,1,0,30% less fat claim
+8718114724430,Light Mayonnaise,Hellman's,Omega-3,Light Mayonnaise | Hellman's,1,0,1,omega-3 nutrient claim
+20561338,coconut milk,"Freshona, Lidl, Vitasia",Malo ili bez masti,"coconut milk | Freshona, Lidl, Vitasia",1,1,0,low or very low fat claim
+20103354,Reduced Fat Soft Cheese,"Milbona,Lidl",Com pouca ou sem gordura,"Reduced Fat Soft Cheese | Milbona,Lidl",1,1,0,low or very low fat claim
+3073781081909,Mini light,Babybel,Pasteurized,Mini light | Babybel,1,0,0,pasteurized milk processing claim
+3073780828642,Minibaby light,Babybel,Dairy Farmers of Canada Quality Milk,Minibaby light | Babybel,1,0,0,quality milk certification/logo
+5026489483030,Hummus chips tomato and basil,Eat Real,Kashrut division of the London Beth Din,Hummus chips tomato and basil | Eat Real,1,0,0,kosher certification claim
+612322000028,Stem Ginger Oat Biscuit Breaks,Nairn's,40% less sugar,Stem Ginger Oat Biscuit Breaks | Nairn's,1,1,0,40% less sugar claim
+8720182592132,LIGHT MAYONNAISE,HELLMANN'S,65% less fat,LIGHT MAYONNAISE | HELLMANN'S,1,1,0,65% less fat claim
